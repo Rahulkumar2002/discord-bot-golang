@@ -1,7 +1,7 @@
 > # Discord Bot in Golang.
 
 <h3>
-  In this we will be creating a simple discord bot which retur **pong** when we type **ping** . 
+  In this we will be creating a simple discord bot which return **pong** when we type **ping** . 
 
   For this you have to be admin of a server on discord if you aren't already or create a new server for this project use . Go to [**Developer Portal**](https://discord.com/developers/applications) in your browser and click on **New Application** on top right side , name the app as **ping-bot** then click create. You can be able to see your **Application Id** and **Public Key** . Go to bot section which is on mid left side ,copy your **Bot-Token** and save it somewhere for future use .<br>
   ![copying-token-img](./img/image1.png)
